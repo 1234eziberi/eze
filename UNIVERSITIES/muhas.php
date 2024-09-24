@@ -116,7 +116,7 @@ if (!$featured) {
       </div>
   </div>
   
-  <!-- The expanding image container -->
+  <!-- The expanding image container --> 
   <div class="container">
     <!-- Close the image -->
     <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>

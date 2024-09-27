@@ -116,20 +116,17 @@ if (!$featured) {
       </div>
   </div>
   
-  <!-- The expanding image container --> 
+  <!-- The expanding image container --> 1234567890-
   <div class="container">
     <!-- Close the image -->
     <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  
+
     <!-- Expanded image -->
     <img id="expandedImg" style="width: 90%;height: 800px;">
   
     <!-- Image text -->
     <div id="imgtext"></div>
   </div>
-
-
-
                 
 <div class="otherServices">
   
@@ -226,3 +223,4 @@ if (!$featured) {
 mysqli_close($conn);
 ?>
 
+ 

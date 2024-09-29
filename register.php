@@ -30,8 +30,10 @@ $password_hash = password_hash($password, PASSWORD_BCRYPT);
 // Prepare and bind
 $stmt = $conn->prepare("INSERT INTO members (name, email, password_hash) VALUES (?, ?, ?)");
 $stmt->bind_param("sss", $name, $email, $password_hash);
+
 ?>
- <div class="message-container">
+
+<div class="message-container">
     <?php
 // Execute the query
 if ($stmt->execute()) {
@@ -46,31 +48,4 @@ if ($stmt->execute()) {
 $stmt->close();
 $conn->close();
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration of members</title>
-</head>
-<body>
-    <style>
-.success-message{
-    text-align: center;
-    color:green;
-    margin-top: 30px;
-    font-size: 1.5em;
-
-
-}
-.error-message{
-    text-align: center;
-    color:red;
-    margin-top: 30px;
-    font-size: 1.5em;
-
-}
-
-    </style>
-</body>
-</html>
+</div>

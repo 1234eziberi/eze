@@ -51,7 +51,7 @@
         }
 
         button {
-            background-color: #2c7873 ;
+            background-color: #28a745;
             color: #fff;
             border: none;
             padding: 15px;
@@ -82,10 +82,10 @@
         <h1>Check Your Credentials</h1>
         <form method="POST" action="pay.php">
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required placeholder="enter your name e.g Hamis Abdul">
-            <label for="number">Phone number:</label>
-            <input type="number" id="number" name="number" required placeholder="enter your mobile payment number e.g 0750997116">
-            <button type="submit">Click here to proceed</button>
+            <input type="text" id="name" name="name" required>
+            <label for="number">Phone Number:</label>
+            <input type="number" id="number" name="number" required>
+            <button type="submit">Check Credentials</button>
         </form>
 
         <?php

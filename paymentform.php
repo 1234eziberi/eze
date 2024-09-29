@@ -12,7 +12,7 @@
     <style>
         * {box-sizing: border-box}
         body {
-            background: #2c7873; 
+            background: #2c7873;
             font-family: 'Poppins', sans-serif;
         }
         .form {

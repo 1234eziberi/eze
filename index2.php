@@ -205,7 +205,7 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                   <a href="UNIVERSITIES/university2.php"> link to university</a>
+                   <a href="university2.php"> link to university</a>
                   </h5>
                   <p>
                     Karibu tukuunganishe na chuo chako tarajiwa kabla ya kuripoti pata kukifahamu vizuri chuo chako.<br>

@@ -116,7 +116,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                   <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="login.html">
+                  <a class="nav-link" href="login.php">
                     <i class="fa fa-user" aria-hidden="true"></i>
                     <span>
                       Login
@@ -154,7 +154,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                     </p>
                     <div class="btn-box">
-                      <a href="paymentform.php" class="btn1">
+                      <a href="registration.php" class="btn1">
                         Sign Up
                         
                       </a>
@@ -180,7 +180,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         
                     </p>
                     <div class="btn-box">
-                      <a href="paymentform.php" class="btn1">
+                      <a href="registration.php.php" class="btn1">
                         Sign Up
                       </a>
                     </div>
@@ -206,7 +206,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         stiff era of competition towards educational destiny and future career.
                     </p>
                     <div class="btn-box">
-                      <a href="paymentform.php" class="btn1">
+                      <a href="registration.php.php" class="btn1">
                         Sign Up
                       </a>
                     </div>
@@ -635,16 +635,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           </div>
           <div class="col-md-4 ">
             <div class="social_box">
-              <a href="">
+              <a href="#">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="#">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="#">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="#">
                 <i class="fa fa-instagram" aria-hidden="true"></i>
               </a>
             </div>
@@ -698,17 +698,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               </h5>
               <ul class="info_menu">
                 <li>
-                  <a href="index.php">
+                  <a href="index1.php">
                     Home
                   </a>
                 </li>
                 <li>
-                  <a href="about.html">
+                  <a href="about.php">
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="service.html">
+                  <a href="service.php">
                     Services
                   </a>
                 </li>
@@ -718,12 +718,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                   </a>
                 </li>
                 <li class="mb-0">
-                  <a href="contact.html">
+                  <a href="contact.php">
                     Contact Us
                   </a>
                 </li>
                 <li>
-                  <a href="index.php">
+                  <a href="#">
                     Hire Developer
                   </a>
               </ul>

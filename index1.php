@@ -406,32 +406,32 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <div class="panel">
   <p>Ni ukweli,kwani hela haijawahi kutosheleza matumizi tangu dunia kuumbwa.Kwa maelezo zaidi ni kwamba wakati mwingine unaweza kupata boom lakini kwenye ada ukawa hauna mkopo wa kutosha kwa maana hiyo wanafunzi hao hujikuta wanajibana kwenye boom ili kulipa ada za kozi.Kwa hiyo kama utakuwa una asilimia kubwa ya mkopo itakuwa faida kwako kulifaidi boom na kinyume chake ni sawasawa.</p>
 </div>
-<button class="accordion"><a href="paymentform.php">8.Je boom la kwanza linatoka lini ?</a></button>
+<button class="accordion"><a href="registration.php">8.Je boom la kwanza linatoka lini ?</a></button>
 <div class="panel">
   <p>Vyuo huanza kufunguliwa mwezi wa kumi mwishoni na huchukua wiki moja mpaka mbili kufanya usajili na orientation na baada ya hapo masomo huanza(Ni muhimu kutafuta taarifa za chuo chako ) ,Kwa uzoefu boom la kwanza hutoka kuanzia tar 19 ivi mwezi wa 11 na kuendelea .Hivyo unapokwenda chuo ni muhimu kujiaandaa kifedha katika kujikimu kipindi icho unasubiri boom la serikali.</p>
 </div>
 
-<button class="accordion"><a href="paymentform.php">9.Eti likizo za chuo ni marangapi kwa mwaka?</a></button>
+<button class="accordion"><a href="registration.php">9.Eti likizo za chuo ni marangapi kwa mwaka?</a></button>
 <div class="panel">
   <p>Chuo kikuu kuna likizo kuu mbili ,Ya kwanza ni mwisho wa semester ya kwanza mara nyingi ni mwezi wa pili mwishoni mpaka mwezi wa tatu huwa ni kama mwezi mmoja tu ivi au pungufu kidogo.Likizo ya pili ni ile ya mwisho wa semester ya pili mwezi wa saba mwanzoni tar 7-15 wa saba ambapo wanafunzi wengi huenda field kwa wiki sita mpaka nane na baadaye huenda likizo kwa miezi kama miwili au pungufu kidogo kabla ya mwaka mwingine wa masomo vyuo.Kipindi hiki cha likizo ni tofauti kwa wanaosoma masomo ya afya kama udaktari na pharmacy mengine utayajua ukifika chuo na baadhi ya kozi pia hawanaga field kwa mwezi huo wa saba.</p>
 </div>
-<button class="accordion"><a href="paymentform.php">10.Vipi ni vifurushi vizuri kwa ajili ya kukidhi mahitaji ya intaneti kwa mwanachuo?</a></button>
+<button class="accordion"><a href="registration.php">10.Vipi ni vifurushi vizuri kwa ajili ya kukidhi mahitaji ya intaneti kwa mwanachuo?</a></button>
 <div class="panel">
   <p>Kitu cha kwanza cha kuzingatia ni kwamba,Mwanachuo hauhitaji Mb’s nyingi  kuwa online kwa kupokea taarifa za kila siku za vipindi na ratiba nyinginezo isipokuwa ni vizuri kuwa online kila siku ata kwa mbs chache ili tu kwamba usipitwe na taarifa muhimu toka kwa wakufunzi na chuo.Kwa upande wa vifurushi  bei nafuu ni vya halotel ya mwanachuo ambao hutoa gb1 kwa buku na airtel pia ambao huwa na laini za SME ambao hutoa GB 22 kwa Tsh 20000 kwa mwezi.</p>
 </div>
-<button class="accordion"><a href="paymentform.php">11.Kipi bora kati ya kukaa hosteli au kupanga nje ya chuo?</a></button>
+<button class="accordion"><a href="registration.php">11.Kipi bora kati ya kukaa hosteli au kupanga nje ya chuo?</a></button>
 <div class="panel">
   <p>Hapa kila option ina faida na hasara zake chache,kwa mfano unapokaa hosteli gharama za kulipia kukaa ndani kwa ajili ya kitanda,godoro,maji na umeme ,gharama zake ni ndogo ukilinganisha na kupanga mtaani ambapo utalazimika kununua vitu vyako mwenyewe na kulipa kodi kila mwezi na gharama za maji na umeme kiujumla ni nyingi kuliko hosteli.Kwa upande mwingine Faida ya kupanga ni unapata uhuru wa kukaa mwenyewe na kujipikia hivyo kupunguza gharama za vyakula wakati ukiwa hosteli unalazimika kununua chakula kila siku ambacho unaweza usiwe unalizika nacho sana kila siku.Hata hivyo kuhusu hili fanya utafiti kwanza wa chuo chako unachoenda Nenda link to university tafuta chuo chako ukijue kiundani. </p>
 </div>
-<button class="accordion"><a href="paymentform.php">12.Naweza kufanya biashara nikiwa chuo?</a></button>
+<button class="accordion"><a href="registration.php">12.Naweza kufanya biashara nikiwa chuo?</a></button>
 <div class="panel">
   <p>Chuo ni sehemu ya elimu kwa watu wazima ambao hawapaswi kuambiwa nini wafanye au wasifanye .Kwa sababu hiyo baada ya kujidhihirisha kwamba unaweza kumudu biashara na masomo yako ya kozi husika,Unaweza kupangilia vizuri ratiba zako za kimasomo na kibiashara na ukafanikiwa kabisa.Tahadhari ni kwamba takwimu zinaonyesha kwamba kuna asilimia kubwa za kufanya vizuri unapokuwa umefocus sehemu moja(yaani masomo au biashara pekee) na sio vyote kwa pamoja .Fanya utafiti wako mwenyewe ili usiishie kupata GPA ndogondogo na pia kumaliza chuo bila kupata ujuzi wowote kikamilifu kwenye kozi yako ulioisomea.Kumbuka tunaenda chuo ili kupata ujuzi ambao tusingeweza kupata kwa kukaa mtaani ,tumia muda wako vizuri kufanya kitu sahihi kwa wakati sahihi. </p>
 </div>
-<button class="accordion"><a href="paymentform.php">13.Eti hakuna madhara ya kuvuta au kuextend likizo chuo?</button>
+<button class="accordion"><a href="registration.php">13.Eti hakuna madhara ya kuvuta au kuextend likizo chuo?</button>
 <div class="panel">
   <p>Hautachapwa ,hautafokewa au kuulizwa na yeyote isipokuwa kama kuna assignments au quizzes zimefanyika ukiwa bado hujaripoti chuo zitakuathiri sana ,kwani zinachangia katika maksi zako za kuingia kufanya semester university examination.Hivyo hatukushauri kuvuta likizo kama hauna sababu za msingi n ahata kama unazo kuna utaratibu halali wa kufuata kulingana na chuo husika.Kwa first year mnaokwenda vyuo vikubwa kama udom na udsm mnashauriwa sana kuwahi kuripoti kuhudhuria orientation na usajili kwani first year huwa wanapata changamoto sana ya kupotea venues za vipindi kutokana na kutoyajua vizuri mazingira.</p>
 </div>
-<button class="accordion"><a href="paymentform.php"></a></button>
+<button class="accordion"><a href="registration.php"></a></button>
 <div class="panel">
   <p>Hahaha,apa kwanza nicheke ,kwa sababu nakumbuka ata mimi kipindi ambacho bado nipo sekondari ,baadhi ya walimu walikuwa wanapotuasa kwamba tusome,walikuwa wanasema  “Someni kwanza kama ni mapenzi au wachumba wa kila aina mtapata sana chuo kikuu”.Nadhani stori za hivi pia zimekuwa zikisababisha freshers wengi wanapokuja chuo wanakuwa na matarajio mengi sana ya kujiingiza kwenye mahusiano ya kimapenzi.Ukweli ni kwamba chuo kuna vijana wazuri wa kila aina hata hivyo unapotaka kuwa na mpenzi hakikisha unajitosheleza kifedha,kiroho na kiumri.Magonjwa ya zinaa yapo usikurupuke.Chuo ni miaka michache tu  ila unaposhindwa kuutumia uhuru huo vizuri kuna majuto baadaye.Wapo baadhi wamekuwa wanajutia sana baada ya kupoteza muda,fedha na afya pia wakati mwingine.Jiwekee misimamo yako na usiendeshwe na mihemko au misukumo rika(peer pressures).Uwezekano upo kabisa wa kutokujiingiza mahusiano au kufanya mapenzi kabla ya kuingia kwenye ndoa.Timu yetu pia tuna wataalamu wa saikolojia kwa msaada wowote wa ushauri kuhusu Nyanja yeyote ile iwe ya kimasomo au nje na masomo. </p>
 </div>
